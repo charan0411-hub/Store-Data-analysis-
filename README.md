@@ -12,5 +12,5 @@ Sales and profit analysis of the Kaggle Sample Superstore dataset (9,994 rows), 
 - West has the highest profit ($108,328.84); Central has the lowest ($39,653.88)
 
 ## How to use
-- **Excel:** open `superstore_region_summary.xlsx`. All totals are formulas on the Data sheet.
-- **Power BI:** load the CSV, remove duplicates, add the measures from the DAX file, and apply the theme from View > Themes.
+- **Excel:** open `SDA.xlsx`. All totals are formulas on the Data sheet.
+- **Power BI:** load the CSV, remove duplicates, add the measures from the DAX file, and apply the theme from View .
